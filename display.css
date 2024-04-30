@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#dis{
+    background-color: black;
+    height: 100px;
+    width: 300px;
+}
+.c{
+    display: flex;
+}
+.whole{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    align-items: center;
+    margin-top: 200px;
+}
+.buttons{
+    display: flex;
+    gap: 40px;
+}
+#click{
+    padding: 10px;
+    border-radius: 15px;
+}
+#reset{
+    padding: 10px;
+    border-radius: 15px;
+}
+#red{
+    padding: 10px;
+    border-radius: 15px;
+}
+#blue{
+    padding: 10px;
+    border-radius: 15px;
+}
